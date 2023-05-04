@@ -1,0 +1,6 @@
+Flask
+gunicorn
+flask-cors
+CORS
+requests
+load_dotenv
